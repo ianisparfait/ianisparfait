@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 <h3>Support: </h3>
 <p><a href="https://www.buymeacoffee.com/parfaitianis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ianisparfait" /></a></p><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact" alt="ianisparfait" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact" alt="ianisparfait" /></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianisparfait&show_icons=true&locale=en" alt="ianisparfait" /></p>
 
