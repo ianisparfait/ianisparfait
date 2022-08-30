@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Iannniis" target="blank"><img align="center" src="https://raw.githubusercontent.com/iansiparfait/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iannniis" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ianis-parfait-68624a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iansiparfait/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianis-parfait" height="30" width="40" /></a>
-<a href="https://instagram.com/ianis_parfait" target="blank"><img align="center" src="https://raw.githubusercontent.com/iansiparfait/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianis_parfait" height="30" width="40" /></a>
+<a href="https://twitter.com/Iannniis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iannniis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ianis-parfait-68624a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianis-parfait" height="30" width="40" /></a>
+<a href="https://instagram.com/ianis_parfait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianis_parfait" height="30" width="40" /></a>
 </p>
 
 <h3>Support: </h3>
