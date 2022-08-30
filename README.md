@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **parfait.ianis@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Iannniis" target="blank"><img align="center" src="https://raw.githubusercontent.com/iansiparfait/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lizzycod" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ianis-parfait-68624a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iansiparfait/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir_ khalili" height="30" width="40" /></a>
+<a href="https://instagram.com/ianis_parfait" target="blank"><img align="center" src="https://raw.githubusercontent.com/iansiparfait/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cod.lizzy" height="30" width="40" /></a>
+</p>
+
 <h3>Support: </h3>
 <p><a href="https://www.buymeacoffee.com/parfaitianis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ianisparfait" /></a></p><br><br>
 
