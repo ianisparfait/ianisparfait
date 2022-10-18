@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
 <br><br>
-- Hello Everyone 👋, My name is Ianis Parfait, I'm French, but if I had to translate my name into English it would be "Perfect" (yes, really 😅)<br>
+- Hello Everyone 👋, My name is **Ianis Parfait**, I'm **French**, but if I had to translate my name into English it would be "**Perfect**" (yes, really 😅)<br>
 -  My name is Ianis and my nickname is Iani (yes, just without the 's' 😄).<br>
 -  I’m very curious (too much? 😅) about new technologies<br>
 -  I'm still a young developer, but I learn fast and a lot 💪.<br>
