@@ -13,29 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ianis</h1>
-<h3 align="center">A passionate guy from France</h3>
+<h1>Hi 👋, I'm Ianis</h1>
+<h3>A passionate guy from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianisparfait&label=Profile%20views&color=0e75b6&style=flat" alt="ianisparfait" /> </p><br><br>
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+
+<br><br>
 - Hello Everyone 👋,<br>
 -  My name is Ianis and my nickname is Iani (yes, just without the 's' 😄).<br>
 -  I’m very curious (too much? 😅) about new technologies<br>
--  I'm still a young developer, but I learn fast and a lot 💪.<br><br>
+-  I'm still a young developer, but I learn fast and a lot 💪.<br>
+- 📫 How to reach me **parfait.ianis@gmail.com**<br>
 
-- 📫 How to reach me **parfait.ianis@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=ianisparfait&label=Profile%20views&color=8042fc&style=plastic" alt="ianisparfait" />
 
-<h3 align="left">Connect with me:</h3>
+### Socials
+
 <p align="left">
-<a href="https://twitter.com/Iannniis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iannniis" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ianis-parfait-68624a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianis-parfait" height="30" width="40" /></a>
-<a href="https://instagram.com/ianis_parfait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianis_parfait" height="30" width="40" /></a>
+<a href="https://twitter.com/Iannniis" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iannniis" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/ianis-parfait-68624a173/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianis-parfait" height="32" width="32" /></a>
+<a href="https://instagram.com/ianis_parfait" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianis_parfait" height="32" width="32" /></a>
 </p>
 
-<h3>Support: </h3>
-<p><a href="https://www.buymeacoffee.com/parfaitianis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ianisparfait" /></a></p><br><br>
+### Badges
+<a href="http://www.github.com/ianisparfait">
+<img src="https://github-readme-stats.vercel.app/api?username=ianisparfait&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="ianisparfait's GitHub stats" />
+</a>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact" alt="ianisparfait" /></p><br><br>
+<a href="http://www.github.com/ianisparfait">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true" alt="ianisparfait" />
+</a>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianisparfait&show_icons=true&locale=en" alt="ianisparfait" /></p>
+<a href="http://www.github.com/ianisparfait">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianisparfait&theme=midnight-purple&hide_border=true" alt="ianisparfait" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianisparfait&" alt="ianisparfait" /></p>
+### Support Me
+<a href="https://www.buymeacoffee.com/parfaitianis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
