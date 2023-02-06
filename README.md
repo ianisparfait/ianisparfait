@@ -36,17 +36,17 @@ Here are some ideas to get you started:
 </p>
 
 ### Badges
-<a href="http://www.github.com/ianisparfait">
+<a href="[http://www.github.com/ianisparfait](https://github-readme-stats.vercel.app/api?username=ianisparfait&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true)">
 <img src="https://github-readme-stats.vercel.app/api?username=ianisparfait&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="ianisparfait's GitHub stats" />
 </a>
 <br><br>
 
-<a href="http://www.github.com/ianisparfait">
+<a href="[http://www.github.com/ianisparfait](https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true)">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true" alt="ianisparfait" />
 </a>
 <br><br>
 
-<a href="http://www.github.com/ianisparfait">
+<a href="[http://www.github.com/ianisparfait](https://github-readme-streak-stats.herokuapp.com/?user=ianisparfait&theme=midnight-purple&hide_border=true)">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianisparfait&theme=midnight-purple&hide_border=true" alt="ianisparfait" />
 </a>
 
