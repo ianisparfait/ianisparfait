@@ -1,54 +1,61 @@
-<!--
-**ianisparfait/ianisparfait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ianisparfait](https://i.imgur.com/7jsIrjP.png)][1]
 
-Here are some ideas to get you started:
+[![GitHub Views](https://komarev.com/ghpvc/?username=ianisparfait&style=for-the-badge&color=FAD230)][1]
+[![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
+[![Flutter](https://img.shields.io/badge/Flutter-♥-blue?logo=flutter&style=for-the-badge&color=47addc)][1]
+[![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1>Hi 👋, I'm Ianis</h1>
-<h3>A passionate guy from France</h3>
+## Hi there 👋,
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+As a developer, I'm a perfect Swiss Army knife. I'm always looking to improve the lives of my colleagues and as many people as possible through my work and my projects.
+I'm always ready to take on challenges on projects that are parallel to the main subject, with the sole aim of improving the lives of teams, whatever the job and at whatever level.
+At ease with new things, I'm a competitor. I'll take on any challenge thrown my way.
 
-<br><br>
-- Hello Everyone 👋, My name is **Ianis Parfait**, I'm **French**, but if I had to translate my name into English it would be "**Perfect**" (yes, really 😅)<br>
--  My name is Ianis and my nickname is Iani (yes, just without the 's' 😄).<br>
--  I’m very curious (too much? 😅) about new technologies<br>
--  I'm still a young developer, but I learn fast and a lot 💪.<br>
-- 📫 How to reach me **parfait.ianis@gmail.com**<br>
+## Get in touch
 
-<img src="https://komarev.com/ghpvc/?username=ianisparfait&label=Profile%20views&color=8042fc&style=plastic" alt="ianisparfait" />
+[![Send Me An Email](https://img.shields.io/badge/Send%20Me%20An-EMail-blue?logo=gmail&style=for-the-badge&color=0A84FF)][2]
 
-### Socials
+## 🧰 Languages and Tools
 
-<p align="left">
-<a href="https://twitter.com/Iannniis" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iannniis" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/ianis-parfait-68624a173/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianis-parfait" height="32" width="32" /></a>
-<a href="https://instagram.com/ianis_parfait" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianis_parfait" height="32" width="32" /></a>
-</p>
+<div>
+  <div id="back">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  </div><br>  
+  <div id="front">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  </div><br>  
+  <div id="mobile">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React native" alt="React native" width="40" height="40"/>&nbsp;
+  </div><br>
+  <div id="tools">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/auth0/webauthn.me/775d2350173f1ed53fc34d93eb08e12ea04021af/img/logo-ft-white.svg" title="Auth0" alt="Auth0" width="55"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  </div><br>
+  <div id="database">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  </div>   
+</div>
 
-### Badges
-<a href="[http://www.github.com/ianisparfait](https://github-readme-stats.vercel.app/api?username=ianisparfait&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true)">
-<img src="https://github-readme-stats.vercel.app/api?username=ianisparfait&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="ianisparfait's GitHub stats" />
-</a>
-<br><br>
 
-<a href="[http://www.github.com/ianisparfait](https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true)">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianisparfait&show_icons=true&locale=en&layout=compact&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true" alt="ianisparfait" />
-</a>
-<br><br>
 
-<a href="[http://www.github.com/ianisparfait](https://github-readme-streak-stats.herokuapp.com/?user=ianisparfait&theme=midnight-purple&hide_border=true)">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianisparfait&theme=midnight-purple&hide_border=true" alt="ianisparfait" />
-</a>
+## :bar_chart: Github Stats
 
-### Support Me
-<a href="https://www.buymeacoffee.com/parfaitianis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ianisparfait&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j&background=00000000)][1]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianisparfait&hide_title=true&count_private=true&show_icons=true&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianisparfait&hide_title=true&layout=compact&hide=html&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
+
+
+<!-- Links --->
+[1]: https://github.com/ianisparfait
+[2]: mailto:parfait.ianis@gmail.com
