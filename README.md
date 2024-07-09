@@ -3,6 +3,7 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=ianisparfait&style=for-the-badge&color=FAD230)][1]
 [![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
 [![Flutter](https://img.shields.io/badge/Flutter-♥-blue?logo=flutter&style=for-the-badge&color=47addc)][1]
+[![Vue](https://img.shields.io/badge/Vue-%E2%99%A5-green?logo=vuejs&style=for-the-badge&color=3FB27F)][1]
 [![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
 
 ---
