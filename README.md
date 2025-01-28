@@ -1,6 +1,6 @@
 [![ianisparfait](https://i.imgur.com/7jsIrjP.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=ianisparfait&style=for-the-badge&color=FAD230)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=ianisparfait&style=for-the-badge&color=B9C99D)][1]
 [![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
 [![Flutter](https://img.shields.io/badge/Flutter-♥-blue?logo=flutter&style=for-the-badge&color=47addc)][1]
 [![Vue](https://img.shields.io/badge/Vue-%E2%99%A5-green?logo=vuedotjs&style=for-the-badge&color=3FB27F)][1]
@@ -17,6 +17,7 @@ At ease with new things, I'm a competitor. I'll take on any challenge thrown my 
 ## Get in touch
 
 [![Send Me An Email](https://img.shields.io/badge/Send%20Me%20An-EMail-blue?logo=gmail&style=for-the-badge&color=0A84FF)][2]
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-2A6161?logo=googlechrome&logoColor=EFF0B4&style=for-the-badge&color=2A6161)][3]
 
 ## 🧰 Languages and Tools
 
@@ -52,3 +53,4 @@ At ease with new things, I'm a competitor. I'll take on any challenge thrown my 
 <!-- Links --->
 [1]: https://github.com/ianisparfait
 [2]: mailto:parfait.ianis@gmail.com
+[3]: https://ianisparfait.com/
