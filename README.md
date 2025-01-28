@@ -49,14 +49,6 @@ At ease with new things, I'm a competitor. I'll take on any challenge thrown my 
 </div>
 
 
-
-## :bar_chart: Github Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ianisparfait&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j&background=00000000)][1]
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianisparfait&hide_title=true&count_private=true&show_icons=true&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianisparfait&hide_title=true&layout=compact&hide=html&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
-
-
 <!-- Links --->
 [1]: https://github.com/ianisparfait
 [2]: mailto:parfait.ianis@gmail.com
