@@ -1,9 +1,7 @@
 [![ianisparfait](https://i.imgur.com/7jsIrjP.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=ianisparfait&style=for-the-badge&color=B9C99D)][1]
-[![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
-[![Flutter](https://img.shields.io/badge/Flutter-♥-blue?logo=flutter&style=for-the-badge&color=47addc)][1]
-[![Vue](https://img.shields.io/badge/Vue-%E2%99%A5-green?logo=vuedotjs&style=for-the-badge&color=3FB27F)][1]
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-2A6161?logo=googlechrome&logoColor=EFF0B4&style=for-the-badge&color=2A6161)][3]
 [![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
 
 ---
@@ -22,12 +20,15 @@ At ease with new things, I'm a competitor. I'll take on any challenge thrown my 
 ## 🧰 Languages and Tools
 
 <div>
+  <div id="special">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-plain-wordmark.svg" title="Erlang" alt="Arlang" width="40" height="40"/>&nbsp;
+  </div><br>
   <div id="back">
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </div><br>  
   <div id="front">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
